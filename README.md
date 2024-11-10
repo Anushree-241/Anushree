@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Anushree
 
 ### Welcome to my GitHub profile!
-
+![Profile Views](https://komarev.com/ghpvc/?username=Anushree-241&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/Anushree-241?label=Followers)
+![GSSoC 2024 Contributor](https://img.shields.io/badge/GSSoC-2024-orange)
 I'm a **Master of Computer Applications (MCA)** graduate actively seeking **Software Development Engineer (SDE)** opportunities. 
 I'm passionate about building engaging and efficient web applications and continually expanding my tech skills. Currently, 
 I'm working on a website for an event management company and contributing as an extended contributor to **GSSoC 2024**!
