@@ -47,11 +47,13 @@ I'm working on a website for an event management company and contributing as an 
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 Badges
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushree-241&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+Here are some of my achievements and affiliations!
+
+![GSSoC 2024 Extended Contributor](https://img.shields.io/badge/GSSoC-2024%20Extended%20Contributor-orange)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
 ---
 
