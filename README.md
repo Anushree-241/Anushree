@@ -44,7 +44,7 @@ I'm working on a website for an event management company and contributing as an 
 
 ### 📚 Featured Projects
 
-- **[Event Management Website]([Link to your project](https://saptapadicreations.com/))**: A responsive and interactive website for an event management company.
+- **[Event Management Website](https://saptapadicreations.com/)**: A responsive and interactive website for an event management company.
 
 ---
 
