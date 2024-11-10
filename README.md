@@ -52,7 +52,7 @@ I'm working on a website for an event management company and contributing as an 
 Here are some of my achievements and affiliations!
 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
-
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%23181717.svg?&style=flat&logo=github&logoColor=white)
 
 ---
 
