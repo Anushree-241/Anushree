@@ -2,8 +2,6 @@
 
 ### Welcome to my GitHub profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anushree-241&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/Anushree-241?label=Followers)
 ![GSSoC 2024 Extended Contributor](https://img.shields.io/badge/GSSoC-2024%20Extended%20Contributor-orange)
 
 
@@ -29,6 +27,16 @@ I'm working on a website for an event management company and contributing as an 
 - **Backend**: Python, Flask, Node.js
 - **Database**: SQL, MongoDB
 - **Full Stack Framework**: MERN (MongoDB, Express, React, Node.js)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
