@@ -44,13 +44,13 @@ I'm working on a website for an event management company and contributing as an 
 
 ### 📚 Featured Projects
 
-- **[Event Management Website]([Link](https://saptapadicreations.com/))**: A responsive and interactive website for an event management company.
+- **[Event Management Website]([Link to your project](https://saptapadicreations.com/))**: A responsive and interactive website for an event management company.
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([Link](https://www.linkedin.com/in/anushree-r-25104920a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](Your LinkedIn Profile URL(https://www.linkedin.com/in/anushree-r-25104920a/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anushreerk01@gmail.com)
 
 ---
