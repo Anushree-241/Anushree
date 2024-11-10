@@ -50,7 +50,7 @@ I'm working on a website for an event management company and contributing as an 
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]((https://www.linkedin.com/in/anushree-r-25104920a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([Link](https://www.linkedin.com/in/anushree-r-25104920a/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anushreerk01@gmail.com)
 
 ---
